@@ -1,7 +1,7 @@
-hi i'm danman 🧐
+«Oh, hi Dan»
 
-beginning developer 💻
+Computer Science student 💻
 
-learning javascript, typescript, c# 😎
+JS, TS, React 😎
 
 ![Dan's GitHub stats](https://github-readme-stats.vercel.app/api?username=danmaninc&count_private=true&include_all_commits=true&show_icons=true&theme=graywhite)
